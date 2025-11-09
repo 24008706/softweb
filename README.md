@@ -134,7 +134,7 @@ index.html
     </div>
   </div>
   <footer>
-    Designed and Developed by Priyanka S
+    Designed and Developed by sahithi
   </footer>
 </body>
 </html>
@@ -246,7 +246,7 @@ administration.html
     </div>
   </div>
   <footer>
-    Designed and Developed by Priyanka S
+    Designed and Developed by sahithi
   </footer>
 </body>
 </html>
@@ -408,7 +408,7 @@ menu.html
       <p>Classic creamy cheesecake with a buttery graham cracker crust, topped with berry compote.</p>
     </div>
     <footer>
-      Designed and Developed by Priyanka S
+      Designed and Developed by sahithi
     </footer>
 </body>
 </html>
@@ -483,7 +483,7 @@ contact.html
     <p>Address: 123 Main Street, Cityville</p>
   </div>
   <footer>
-    Designed and Developed by Priyanka S
+    Designed and Developed by sahithi
   </footer>
 </body>
 </html>
